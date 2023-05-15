@@ -100,8 +100,10 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![output](https://github.com/karthickop6/standard-calculator/blob/main/Screenshot%202023-05-15%20082758.png)
 
-## Result:
+
+# Result:
 
 The output for calculator is displayed successfully.
 
