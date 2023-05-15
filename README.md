@@ -1,30 +1,32 @@
-#Design of a Standard Calculator
-#AIM:
+# Design of a Standard Calculator
+## AIM:
 
 To design a web application for a standard calculator.
-#DESIGN STEPS:
-#Step 1:
+#  STEPS:
+# Step 1:
 
 First we want fork and clone the repository,then we want to create a project and app using django framework.
-#Step 2:
+# Step 2:
 
 In app we want to create the templates folder follows with app folder in that app folder we want to create a required html files.
-#Step 3:
+# Step 3:
 
 Change the settings.py,views.py,urls.py
-#Step 4:
+# Step 4:
 
 Then we want to write a revalent code in that html file
-#Step 5:
+# Step 5:
 
 Then we want to run the server.
-#Step 6:
+# Step 6:
 
 Validate the HTML and CSS code.
-#Step 6:
+# Step 6:
 
 Publish the website in the given URL.
-#PROGRAM :
+# PROGRAM :
+
+```
 
 <!DOCTYPE html>
 <html>
@@ -95,6 +97,7 @@ Publish the website in the given URL.
         </form>
     </body>
 </html>
+```
 
 ## OUTPUT:
 
